@@ -1,0 +1,9 @@
+C:\Users\jbanson\Work Folders\Documents\GitHub\Jarvis\jarvis103\bin\Debug\jarvis103.exe.config
+C:\Users\jbanson\Work Folders\Documents\GitHub\Jarvis\jarvis103\bin\Debug\jarvis103.exe
+C:\Users\jbanson\Work Folders\Documents\GitHub\Jarvis\jarvis103\bin\Debug\jarvis103.pdb
+C:\Users\jbanson\Work Folders\Documents\GitHub\Jarvis\jarvis103\obj\Debug\jarvis103.Form1.resources
+C:\Users\jbanson\Work Folders\Documents\GitHub\Jarvis\jarvis103\obj\Debug\jarvis103.Properties.Resources.resources
+C:\Users\jbanson\Work Folders\Documents\GitHub\Jarvis\jarvis103\obj\Debug\jarvis103.csproj.GenerateResource.cache
+C:\Users\jbanson\Work Folders\Documents\GitHub\Jarvis\jarvis103\obj\Debug\jarvis103.csproj.CoreCompileInputs.cache
+C:\Users\jbanson\Work Folders\Documents\GitHub\Jarvis\jarvis103\obj\Debug\jarvis103.exe
+C:\Users\jbanson\Work Folders\Documents\GitHub\Jarvis\jarvis103\obj\Debug\jarvis103.pdb
