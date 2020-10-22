@@ -7,3 +7,12 @@ C:\Users\jbanson\Work Folders\Documents\GitHub\Jarvis\jarvis103\obj\Debug\jarvis
 C:\Users\jbanson\Work Folders\Documents\GitHub\Jarvis\jarvis103\obj\Debug\jarvis103.csproj.CoreCompileInputs.cache
 C:\Users\jbanson\Work Folders\Documents\GitHub\Jarvis\jarvis103\obj\Debug\jarvis103.exe
 C:\Users\jbanson\Work Folders\Documents\GitHub\Jarvis\jarvis103\obj\Debug\jarvis103.pdb
+C:\Users\king_\OneDrive\Documents\GitHub\jarvis103\bin\Debug\jarvis103.exe.config
+C:\Users\king_\OneDrive\Documents\GitHub\jarvis103\bin\Debug\jarvis103.exe
+C:\Users\king_\OneDrive\Documents\GitHub\jarvis103\bin\Debug\jarvis103.pdb
+C:\Users\king_\OneDrive\Documents\GitHub\jarvis103\obj\Debug\jarvis103.csprojAssemblyReference.cache
+C:\Users\king_\OneDrive\Documents\GitHub\jarvis103\obj\Debug\jarvis103.Form1.resources
+C:\Users\king_\OneDrive\Documents\GitHub\jarvis103\obj\Debug\jarvis103.Properties.Resources.resources
+C:\Users\king_\OneDrive\Documents\GitHub\jarvis103\obj\Debug\jarvis103.csproj.GenerateResource.cache
+C:\Users\king_\OneDrive\Documents\GitHub\jarvis103\obj\Debug\jarvis103.exe
+C:\Users\king_\OneDrive\Documents\GitHub\jarvis103\obj\Debug\jarvis103.pdb
